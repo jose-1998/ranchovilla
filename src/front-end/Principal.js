@@ -1,16 +1,15 @@
 import React from "react";
 import "./Principal.css";
-//import Imagen from './front-end/Imagen.js';
-//import img from "../../public/img/principal.jpeg"
+//import Img from "../img/principal.jpeg"
+import NavBar from "./nav-bar/NavBar";
 const Principal = () => {
   return (
-    <div className="title">
-      <div className="preuba">
-      <p>Hola Bienvenido a Rancho Villa Party & Place</p>
+    <div >
+        <NavBar/>
+{/*     <img className="title" src={Img} alt=""/>
+ */}      <div>
       </div>
-      
     </div>
-    
   );
 };
 
