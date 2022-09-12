@@ -1,0 +1,8 @@
+#texto{
+    justify-content: right;
+    align-items: flex-end;
+}
+.prueba{
+    justify-content: center;
+    align-items: center;
+}
