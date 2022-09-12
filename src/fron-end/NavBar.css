@@ -1,0 +1,14 @@
+.menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 1.8em;
+    text-decoration: none;
+}
+
+.prueba{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin-right: 1rem;
+}
